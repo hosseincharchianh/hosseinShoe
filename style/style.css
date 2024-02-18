@@ -1,0 +1,80 @@
+#userdiv{
+    display: inline;
+    background-color:rgba(4, 202, 53, 0.753) ;
+    padding: 20px;
+    border-radius: 20px;
+    height: 20px;
+    margin: 15px 10px;
+}
+div{
+    float: left;
+}
+#card{
+    padding: 20px;
+    background-color:rgb(4, 143, 39) ;
+    border-radius: 20px;
+    margin: 15px 0;
+}
+#sisu{
+    padding: 6px;
+    background-color: rgba(45, 58, 70, 0.034);
+    margin: 15px 20px;
+    height: 20px;
+}
+#searchbotom{
+    height: 55px;
+    width: 70px;
+    margin: 15px 0 ;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: rgba(76, 76, 77, 0.151);
+    border-width: 0 1px;
+    border-style: outset;
+
+}
+#searchbotomdiv{
+    display: inline;
+    margin: 0;
+}
+#searchtext{
+    height: 55px;
+    width: 530px;
+    text-align: right;
+    background-color: rgba(76, 76, 77, 0.151);
+    padding: 0 30px;
+    margin: 15px 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-width: 0 1px 0 0 ;  
+    border-color: black; 
+    border-style: outset; 
+    display: inline;
+}
+#shimaimg{
+    float: right;
+    margin: 10px 55px;
+}
+nav{
+    text-align: right;
+}
+.section{
+    float: right;
+    background-color: rgba(156, 156, 156, 0.486);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 12px;
+}
+.leftsections{
+    float: left;
+    background-color: rgba(156, 156, 156, 0.486);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 12px 2px;
+}
+
+section:hover{
+    background-color: rgba(30, 255, 0, 0.76);
+    border-style: outset;
+    border-width: 2px;
+    border-color: black;
+}
