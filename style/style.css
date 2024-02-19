@@ -101,8 +101,9 @@ section:hover{
 #categoryCap{
     color: rgb(3, 114, 58);
     text-align: center;
-    margin-left: 500px;
-    margin-top: 30px;
+    position: absolute
+    top 50%;
+    width: 100%;
     font-family:yekan,tahoma, serif ;
 }
 #timertakhfif{
