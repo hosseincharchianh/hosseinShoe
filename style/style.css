@@ -11,7 +11,7 @@ div{
 }
 #card{
     padding: 20px;
-    background-color:rgb(4, 143, 39) ;
+    background-color:rgb(2, 214, 90);
     border-radius: 20px;
     margin: 15px 0;
 }
@@ -63,6 +63,8 @@ nav{
     border-radius: 20px;
     padding: 10px;
     margin: 12px;
+    /* border-width: 2px;
+    border-style: hidden; */
 }
 .leftsections{
     float: left;
@@ -70,11 +72,40 @@ nav{
     border-radius: 20px;
     padding: 10px;
     margin: 12px 2px;
+    /* border-width: 2px;
+    border-style: hidden */
 }
 
 section:hover{
     background-color: rgba(30, 255, 0, 0.76);
-    border-style: outset;
+    border-style: inset;
     border-width: 2px;
     border-color: black;
+}
+#takhfifimg{
+    margin: 20px 0 0 70px  ;
+    border-radius: 20px;
+    display: inline;
+}
+#secondshoeimg{
+    margin: 0 10px 0 10px ;
+    /* border-radius: 20px;
+    چرا بوردر نمیگیرههههه!!!!  :| */
+
+}
+#thirdimg{
+    margin-left: 10px;
+    border-radius: 20px;
+    display: block;
+}
+#categoryCap{
+    color: rgb(3, 114, 58);
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 30px;
+    font-family:yekan,tahoma, serif ;
+}
+#timertakhfif{
+    background-color: rgb(0, 255, 55);
+    height: 300px;
 }
